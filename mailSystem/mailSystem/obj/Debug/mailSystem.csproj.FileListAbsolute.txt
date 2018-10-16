@@ -1,0 +1,17 @@
+C:\Users\КуанбекР\source\repos\mailSystem\mailSystem\bin\Debug\mailSystem.exe.config
+C:\Users\КуанбекР\source\repos\mailSystem\mailSystem\bin\Debug\mailSystem.exe
+C:\Users\КуанбекР\source\repos\mailSystem\mailSystem\bin\Debug\mailSystem.pdb
+C:\Users\КуанбекР\source\repos\mailSystem\mailSystem\obj\Debug\mailSystem.csprojAssemblyReference.cache
+C:\Users\КуанбекР\source\repos\mailSystem\mailSystem\obj\Debug\mailSystem.csproj.CoreCompileInputs.cache
+C:\Users\КуанбекР\source\repos\mailSystem\mailSystem\obj\Debug\mailSystem.exe
+C:\Users\КуанбекР\source\repos\mailSystem\mailSystem\obj\Debug\mailSystem.pdb
+C:\Users\КуанбекР\Desktop\mailSystem\mailSystem\bin\Debug\mailSystem.exe.config
+C:\Users\КуанбекР\Desktop\mailSystem\mailSystem\bin\Debug\mailSystem.exe
+C:\Users\КуанбекР\Desktop\mailSystem\mailSystem\bin\Debug\mailSystem.pdb
+C:\Users\КуанбекР\Desktop\mailSystem\mailSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\КуанбекР\Desktop\mailSystem\mailSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\КуанбекР\Desktop\mailSystem\mailSystem\obj\Debug\mailSystem.csprojAssemblyReference.cache
+C:\Users\КуанбекР\Desktop\mailSystem\mailSystem\obj\Debug\mailSystem.csproj.CoreCompileInputs.cache
+C:\Users\КуанбекР\Desktop\mailSystem\mailSystem\obj\Debug\mailSystem.csproj.CopyComplete
+C:\Users\КуанбекР\Desktop\mailSystem\mailSystem\obj\Debug\mailSystem.exe
+C:\Users\КуанбекР\Desktop\mailSystem\mailSystem\obj\Debug\mailSystem.pdb
